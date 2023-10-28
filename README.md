@@ -1,4 +1,5 @@
 <!-- C++,C,Figma --> 
+<!-- JavaScript,HTML,CSS,Handlebars,Express,NodeJS,PostgreSQL -->
 # BTH545 Workshop 3
 
 This repository is dedicated to my BTH545 course's workshop 3, demonstrating my project.
